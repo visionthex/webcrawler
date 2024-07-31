@@ -8,7 +8,7 @@ This is a simple web crawler program written in Node.js that crawls a website st
 
 ## Installation
 
-1, Clone the repository or download the source code.
+1. Clone the repository or download the source code.
 
 ```bash
 git clone https://github.com/yourusername/web-crawler.git cd web-crawler
